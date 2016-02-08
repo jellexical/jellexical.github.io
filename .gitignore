@@ -1,6 +1,5 @@
 *~
 *.pem
-*.key
 *.idea*
 bootstrap/*
 py/server/security/*
