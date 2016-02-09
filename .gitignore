@@ -2,4 +2,4 @@
 *.pem
 *.idea*
 bootstrap/*
-py/server/security/*
+*__pycache__*
